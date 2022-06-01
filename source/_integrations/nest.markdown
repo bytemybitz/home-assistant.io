@@ -136,12 +136,13 @@ Once completed, you will have a device access `project_id` needed for later step
     ![Screenshot of Device Access Registration](/images/integrations/nest/device_access.png)
 
 1. Check the box to "Accept the Terms of Service" and click **Continue to Payment** where you need to pay a fee (currently US$5).
+   <div class='note'>
+    It is currently not possible to share/be invited to a home with a G-Suite account. Make sure that you pay the fee with an account that has access to your devices.
+   </div>
+    
     ![Screenshot of accepting terms](/images/integrations/nest/accept_terms.png)
 
-    <div class='note'>
-    It is currently not possible to share/be invited to a home with a G-Suite account. Make sure that you pay the fee with an account that has access to your devices.
-    </div>
-
+   
 1. Now the [Device Access Console](https://console.nest.google.com/device-access/project-list) should be visible. Click on **Create project**.
 
 1. Give your Device Access project a name and click **Next**.
